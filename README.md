@@ -83,4 +83,4 @@ Foram capturados prints das seguintes execuções:
 ---
 
 ## 👨‍💻 Autor
-Lucas
+Lucas Vieira e Pedro Puga
